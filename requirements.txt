@@ -1,3 +1,3 @@
-lsrequests
+requests
 streamlit
 pandas
